@@ -1,0 +1,7 @@
+1:"$Sreact.fragment"
+2:I[92825,["/clipwavesite/_next/static/chunks/ff1a16fafef87110.js","/clipwavesite/_next/static/chunks/247eb132b7f7b574.js"],"ClientSegmentRoot"]
+3:I[16220,["/clipwavesite/_next/static/chunks/1ffa1f5b7eaf93fc.js","/clipwavesite/_next/static/chunks/832fc0c7117940af.js","/clipwavesite/_next/static/chunks/5de1b8ae096b3210.js","/clipwavesite/_next/static/chunks/195c216f52dae3f8.js","/clipwavesite/_next/static/chunks/4e39d3878582c0b2.js","/clipwavesite/_next/static/chunks/9cd974fab8c93065.js","/clipwavesite/_next/static/chunks/d07569f51352f223.js"],"default"]
+4:I[39756,["/clipwavesite/_next/static/chunks/ff1a16fafef87110.js","/clipwavesite/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+5:I[37457,["/clipwavesite/_next/static/chunks/ff1a16fafef87110.js","/clipwavesite/_next/static/chunks/247eb132b7f7b574.js"],"default"]
+0:{"buildId":"_mw6pbL1D1nKW04jwNLqy","rsc":["$","$1","c",{"children":[[["$","script","script-0",{"src":"/clipwavesite/_next/static/chunks/4e39d3878582c0b2.js","async":true}],["$","script","script-1",{"src":"/clipwavesite/_next/static/chunks/9cd974fab8c93065.js","async":true}],["$","script","script-2",{"src":"/clipwavesite/_next/static/chunks/d07569f51352f223.js","async":true}]],["$","$L2",null,{"Component":"$3","slots":{"children":["$","$L4",null,{"parallelRouterKey":"children","template":["$","$L5",null,{}]}]},"serverProvidedParams":{"params":{},"promises":["$@6"]}}]]}],"loading":null,"isPartial":false}
+6:{}
