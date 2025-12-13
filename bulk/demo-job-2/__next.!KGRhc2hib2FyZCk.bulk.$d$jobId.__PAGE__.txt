@@ -1,0 +1,6 @@
+1:"$Sreact.fragment"
+2:I[36506,["/clipwavesite/_next/static/chunks/a643677665eb5949.js","/clipwavesite/_next/static/chunks/fbf3ed6721ed7133.js","/clipwavesite/_next/static/chunks/195c216f52dae3f8.js","/clipwavesite/_next/static/chunks/65c5d5dcc87c22c9.js","/clipwavesite/_next/static/chunks/9b1567c97de1e46d.js"],"default"]
+3:I[97367,["/clipwavesite/_next/static/chunks/ff1a16fafef87110.js","/clipwavesite/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
+4:"$Sreact.suspense"
+0:{"buildId":"lp2bNw--DzCPGiILn5yTM","rsc":["$","$1","c",{"children":[["$","$L2",null,{}],[["$","script","script-0",{"src":"/clipwavesite/_next/static/chunks/9b1567c97de1e46d.js","async":true}]],["$","$L3",null,{"children":["$","$4",null,{"name":"Next.MetadataOutlet","children":"$@5"}]}]]}],"loading":null,"isPartial":false}
+5:null
