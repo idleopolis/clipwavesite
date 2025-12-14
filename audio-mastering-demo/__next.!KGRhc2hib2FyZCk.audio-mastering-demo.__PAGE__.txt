@@ -1,9 +1,9 @@
 1:"$Sreact.fragment"
 2:I[47257,["/clipwavesite/_next/static/chunks/ff1a16fafef87110.js","/clipwavesite/_next/static/chunks/247eb132b7f7b574.js"],"ClientPageRoot"]
-3:I[11660,["/clipwavesite/_next/static/chunks/a643677665eb5949.js","/clipwavesite/_next/static/chunks/d761aec483ee0421.js","/clipwavesite/_next/static/chunks/195c216f52dae3f8.js","/clipwavesite/_next/static/chunks/65c5d5dcc87c22c9.js","/clipwavesite/_next/static/chunks/b9a14fa940b50890.js","/clipwavesite/_next/static/chunks/9cd974fab8c93065.js"],"default"]
+3:I[11660,["/clipwavesite/_next/static/chunks/195c216f52dae3f8.js","/clipwavesite/_next/static/chunks/d6ad047be2bd8d20.js","/clipwavesite/_next/static/chunks/ce886b764a938d1a.js","/clipwavesite/_next/static/chunks/9a8c96f9409d9646.js","/clipwavesite/_next/static/chunks/9cd974fab8c93065.js"],"default"]
 6:I[97367,["/clipwavesite/_next/static/chunks/ff1a16fafef87110.js","/clipwavesite/_next/static/chunks/247eb132b7f7b574.js"],"OutletBoundary"]
 7:"$Sreact.suspense"
-0:{"buildId":"i8db-9RX-PzRdgBDnVe1o","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/clipwavesite/_next/static/chunks/b9a14fa940b50890.js","async":true}],["$","script","script-1",{"src":"/clipwavesite/_next/static/chunks/9cd974fab8c93065.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"gEjB4vC7gEVdZCM7iFSaS","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/clipwavesite/_next/static/chunks/9a8c96f9409d9646.js","async":true}],["$","script","script-1",{"src":"/clipwavesite/_next/static/chunks/9cd974fab8c93065.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
 4:{}
 5:{}
 8:null
